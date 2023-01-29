@@ -1,4 +1,4 @@
-# Algorithm is first than skill set
+# Algorithm with Javasript/TypeScript
 
 How to run:
 yarn
